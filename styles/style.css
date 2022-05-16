@@ -62,7 +62,7 @@
       right: 0;
       z-index: 0;
       width:568px;
-      height: 568px; 
+      height: 568px;
       background-color: #2f80ed;
   }
   .description{
@@ -217,7 +217,7 @@
       font-size: 24px;
       font-weight: normal;
       margin: 20px auto 0px auto;
-      text-align: center; 
+      text-align: center;
       position: relative;
       z-index: 2;    
   }
@@ -251,7 +251,7 @@
       background-color: #1f1f1f;
       min-height: 350px;
       color: #fff;
-      position: relative; 
+      position: relative;
       padding-top: 60px ;
       padding-bottom: 40px;
   }
@@ -265,7 +265,7 @@
       display: flex;
       text-align: center;
       margin: 60px auto 40px auto;
-      justify-content:space-between; 
+      justify-content:space-between;
       position: relative;
   }
   .footer__column__content__copyright{
