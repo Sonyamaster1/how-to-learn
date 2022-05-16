@@ -1,4 +1,4 @@
-   .page {
+      .page {
     min-width: 1100px;
     max-width: 1600px;
     margin: 0 auto;
@@ -149,8 +149,6 @@
       line-height: 1.2;
       font-size: 18px;
       font-weight: normal;
-  }
-  .table__text__bottom{ 
       margin-top: 20px;
   }
   .feynman{ 
@@ -256,7 +254,6 @@
       position: relative; 
       padding-top: 60px ;
       padding-bottom: 40px;
-      border: 1px solid red;
   }
   .logo__place__footer{
       background-image: url(../images/logo_place_footer.svg);
@@ -270,19 +267,21 @@
       margin: 60px auto 40px auto;
       justify-content:space-between; 
       position: relative;
-      border: 1px solid red;
   }
   .footer__column__content__copyright{
      flex-basis: 711px;
+     display: flex;
     }
   .footer__author{ 
       text-align: left;
       line-height: 25px;
       font-size: 18px;
       font-weight: normal;
-      display: flex;  
-      flex-direction: row;
-     border: 1px solid red;
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      margin-bottom: 18px;
+      margin-top: 18px;
   }
   .footer__column__content__info{
       display: flex;
