@@ -22,7 +22,7 @@
      background-repeat: no-repeat;
      background-size: contain;
   }
-  .logo__place__header{
+  .logo_place_header{
       background-image: url(../images/logo_place_header.svg);
       top: 30px;
       left: 64px;
@@ -255,7 +255,7 @@
       padding-top: 60px;
       padding-bottom: 40px;
   }
-  .logo__place__footer{
+  .logo_place_footer{
       background-image: url(../images/logo_place_footer.svg);
       top: 0;
       left: 0;
